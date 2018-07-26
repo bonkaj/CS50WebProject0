@@ -1,0 +1,49 @@
+.header {
+  text-align: center;
+  color: grey;
+  padding: 25px 25px 25px 25px;
+  }
+
+.container {
+  padding: 5px;
+  span: width;
+}
+  .col-sm {
+    background-color: grey;
+    text-align: center;
+    color: white;
+  }
+
+  table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+
+  table {
+    text-align:center
+    table-align:center;
+  }
+
+#main-body {
+  text-align: center;
+}
+
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #A9A9A9;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
